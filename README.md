@@ -13,6 +13,6 @@
 Python · SQL · VBA · dbt · Power BI · QlikSense · AWS · Azure · APIs · JavaScript · PHP
 
 ## Current focus
-Building automation and analytics products that improve search performance, reporting accuracy, and data-driven decision-making.
-Digital PR tools such as journalist finding and AI outreach tools
-AI visibility tracker
+- Building automation and analytics products that improve search performance, reporting accuracy, and data-driven decision-making.
+- Digital PR tools such as journalist finding and AI outreach tools
+- AI visibility tracker
