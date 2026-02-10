@@ -16,3 +16,7 @@ Python · SQL · VBA · dbt · Power BI · QlikSense · AWS · Azure · APIs · 
 - Building automation and analytics products that improve search performance, reporting accuracy, and data-driven decision-making.
 - Digital PR tools such as journalist finding and AI outreach tools
 - AI visibility tracker
+
+
+# LinkedIn:
+https://www.linkedin.com/in/kallum-delaney-48254ba8/
