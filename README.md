@@ -19,4 +19,5 @@ Python · SQL · VBA · dbt · Power BI · QlikSense · AWS · Azure · APIs · 
 
 
 # LinkedIn:
-https://www.linkedin.com/in/kallum-delaney-48254ba8/
+- https://www.linkedin.com/in/kallum-delaney-48254ba8/
+- https://www.kallumdelaney.com/
