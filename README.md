@@ -1,16 +1,18 @@
-## Hi there 👋
+# Kallum Delaney
 
-<!--
-**kallumdelaney-collab/kallumdelaney-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Kallum Delaney** is a UK-based Data Analytics Manager specialising in SEO, marketing analytics and automation. I design Python, SQL, and AI-driven data systems that transform complex marketing data into scalable insights, dashboards and workflows for growth-focused teams.
 
-Here are some ideas to get you started:
+## What I work on
+- SEO & marketing analytics
+- Python automation & data pipelines
+- SQL reporting & BI dashboards
+- AI-driven process optimisation
+- Scalable data tooling for agencies and in-house teams
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+Python · SQL · VBA · dbt · Power BI · QlikSense · AWS · Azure · APIs · JavaScript · PHP
+
+## Current focus
+Building automation and analytics products that improve search performance, reporting accuracy, and data-driven decision-making.
+Digital PR tools such as journalist finding and AI outreach tools
+AI visibility tracker
