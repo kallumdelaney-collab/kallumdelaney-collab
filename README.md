@@ -1,6 +1,6 @@
-# Kallum Delaney
+# Kallum James
 
-**Kallum Delaney** is a UK-based Data Analytics Manager specialising in SEO, marketing analytics and automation. I design Python, SQL, and AI-driven data systems that transform complex marketing data into scalable insights, dashboards and workflows for growth-focused teams.
+**Kallum James** is a UK-based Data Analytics Manager specialising in SEO, marketing analytics and automation. I design Python, SQL, and AI-driven data systems that transform complex marketing data into scalable insights, dashboards and workflows for growth-focused teams.
 
 ## What I work on
 - SEO & marketing analytics
@@ -10,7 +10,7 @@
 - Scalable data tooling for agencies and in-house teams
 
 ## Tech stack
-Python · SQL · VBA · dbt · Power BI · QlikSense · AWS · Azure · APIs · JavaScript · PHP
+Python · SQL · FAST API · Docker · React
 
 ## Current focus
 - Building automation and analytics products that improve search performance, reporting accuracy, and data-driven decision-making.
@@ -19,5 +19,4 @@ Python · SQL · VBA · dbt · Power BI · QlikSense · AWS · Azure · APIs · 
 
 
 # LinkedIn:
-- https://www.linkedin.com/in/kallum-delaney-48254ba8/
-- https://www.kallumdelaney.com/
+- https://www.linkedin.com/in/kallum-james-48254ba8/
